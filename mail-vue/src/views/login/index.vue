@@ -141,9 +141,8 @@
       </div>
     </el-dialog>
 <footer>
-
-    &copy; 2026 TerCon Companies德康多元集团 版权所有
-<br>&copy; TerConCompanies.Com
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    &copy; TerConCompanies.Com
 
 
 </footer>
