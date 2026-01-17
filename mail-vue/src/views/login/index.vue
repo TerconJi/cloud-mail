@@ -142,7 +142,8 @@
     </el-dialog>
 <footer>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    &copy; TerConCompanies.Com
+    &copy; TerConCompanies.Com | <a href="/yonghuxieyi.html">用户协议</a>
+</footer>
 
 
 </footer>
