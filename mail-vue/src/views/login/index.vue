@@ -146,9 +146,6 @@
 </footer>
 
 
-</footer>
-
-
   </div>
 </template>
 
